@@ -9,7 +9,7 @@ Welcome to my **CodSoft** repository! This repo contains two of my latest full-s
 **JobHive** is a dynamic and interactive job portal built to simplify the job search and recruitment process. It supports two main user roles: **Job Seekers** and **Recruiters**.
 
 ### 👨‍💼 Features for Job Seekers:
-- 🔹 Register and explore job opportunities
+-  Register and explore job opportunities
 - 🔹 Filter jobs by **city**, **role**, or **job title**
 - 🔹 View detailed job descriptions and apply instantly
 - 🔹 Maintain and edit profile: skills, resume, and summary
