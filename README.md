@@ -21,8 +21,18 @@ Welcome to my **CodSoft** repository! This repo contains two of my latest full-s
 - 🔹 View applicants for each job posting
 - 🔹 Access applicant profiles and take action: **Accept** or **Reject**
 - 🔹 Status updates reflect in the applicant’s dashboard in real-time
+  
+
+## 🛠️ Tech Stack Overview
+
+- **Frontend:** React.js, HTML, CSS, Bootstrap / Tailwind
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT, bcrypt
+- **Tools:** GitHub, VS Code, Postman
 
 ---
+
 
 ## 🧠 Task 2: QuizMaster – Ultimate Online Quiz Platform
 
@@ -35,16 +45,6 @@ Welcome to my **CodSoft** repository! This repo contains two of my latest full-s
 - 📊 Real-time score calculation and result breakdown
 - 📱 Mobile-friendly and fully responsive design
 - 🧩 Scalable and clean code architecture
-
----
-
-## 🛠️ Tech Stack Overview
-
-- **Frontend:** React.js, HTML, CSS, Bootstrap / Tailwind
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT, bcrypt
-- **Tools:** GitHub, VS Code, Postman
 
 ---
 
